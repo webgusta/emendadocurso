@@ -1,4 +1,4 @@
-# EMENDA DO CURSO
+# EMENTA DO CURSO
 
 ## Análise e Modelagem de sistemas
 
